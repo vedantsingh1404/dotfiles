@@ -493,6 +493,7 @@ map <scrollwheeldown> <c-e>
 au FileType cpp nnoremap <leader>l :!g++ % -g -o %:r && ./%:r <CR>
 au FileType c nnoremap <leader>l :!gcc % -o %:r && ./%:r <CR>
 au FileType python nnoremap <leader>l :!python % <CR>
+
 set path+=**
 set wildmenu
 
