@@ -1,4 +1,5 @@
 # Installation Instructions
+
 1. Cloning my dotfiles
 
 ```console
@@ -13,7 +14,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 3. Copying the dotfiles
 
-```consoles
+```console
 cd dofiles/
 ./.make.sh
 ```
