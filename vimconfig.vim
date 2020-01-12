@@ -509,3 +509,14 @@ nmap <leader>p :LiveDownPreview<CR>
 let g:livedown_autorun = 1
 let g:livedown_open = 1
 let g:livedown_browser = "chrome"
+
+
+"""""""""""""""""""""""""""""""
+"Window switch remappings
+""""""""""""""""""""""""""""""
+
+nnoremap <C-j> <C-w><C-j>
+nnoremap <C-h> <C-w><C-h>
+nnoremap <C-k> <C-w><C-k>
+nnoremap <C-l> <C-w><C-l>
+
