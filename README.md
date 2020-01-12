@@ -1,5 +1,4 @@
-# INSTALLATION INSTRUCTION
-
+# Installation Instructions
 1. Cloning my dotfiles
 
 ```console
